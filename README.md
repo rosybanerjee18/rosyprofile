@@ -20,8 +20,8 @@
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rosy-banerjee-a33862109/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/Urvi_3012" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-FF00?style=for-the-badge&logo=hackerRank&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/rosiebanerjee/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FF00?style=for-the-badge&logo=hackerRank&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br> 
 
@@ -124,10 +124,8 @@
 • Scheduled CRON jobs in Redis-server to display user messages and display latest message receipts on the GUI.
   Programmed using Python, HTML, CSS, JavaScript.
 
-• [Web App](https://github.com/techhuv/Product-Detection-Django-Web-App)
-
 <br>
-### [User Location Sharing Application]
+### [User Location Sharing Application](https://github.com/rosybanerjee18/portfolio)
 
 •  Designed a Social Media based Full-Stack Web Application using React.js, HTML/CSS - Bootstrap for UI Development,
    Express.js as back-end and a MongoDB database.
